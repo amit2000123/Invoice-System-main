@@ -3,7 +3,7 @@
 
 ### Live Demo
 
-[Hosting Link](https://invoice-generator-react-redux.vercel.app/)
+[Hosting Link](https://invc-system.vercel.app/)
 
 ### Installation
 
