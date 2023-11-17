@@ -1,19 +1,24 @@
-1. Clone this repository to your local machine:
+# Redux-based Invoice Management System
 
-```
-git clone https://github.com/KhushiramMeena/Invoice-System.git
-```
+
+### Live Demo
+
+[Hosting Link](https://invoice-generator-react-redux.vercel.app/)
+
+### Installation
+
+To get started with the Redux-based Invoice Management System, follow these simple installation steps:
+
+1. Clone this repository to your local machine:
 
 2. Install the necessary dependencies:
 
-```
-npm i
-```
 
-3. Start the application
+npm install
 
-```
-npm start
-```
 
-You will redirect on http://localhost:3000/
+
+3. Start the application for development, or build it for production:
+
+
+npm start 
